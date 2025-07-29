@@ -153,7 +153,7 @@ export default function Loader() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 2 }}
                 >
-                    Do you even know how badly I am missing you🥺🥺...
+                    Do you even know how badly I am missing you🥺...
                 </motion.p>
 
                 <motion.div
